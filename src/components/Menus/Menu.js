@@ -31,10 +31,9 @@ const Menu = ({ toggle }) => {
                 <FcAbout />
                 About
               </div>
-
               <div className="nav-link">
-                <FcPortraitMode />
-                Work Experience
+                <FcReadingEbook />
+                Education
               </div>
 
               <div className="nav-link">
@@ -43,20 +42,13 @@ const Menu = ({ toggle }) => {
               </div>
 
               <div className="nav-link">
-                <FcReadingEbook />
-                Education
-              </div>
-
-              <div className="nav-link">
                 <FcVideoProjector />
                 Projects
               </div>
-
               <div className="nav-link">
-                <FcVoicePresentation />
-                Testimonial
+                <FcPortraitMode />
+                Work Experience
               </div>
-
               <div className="nav-link">
                 <FcBusinessContact />
                 Contact
@@ -77,7 +69,7 @@ const Menu = ({ toggle }) => {
               </div>
 
               <div className="nav-link">
-                <FcPortraitMode size={35} title="Work Experience" />
+                <FcReadingEbook size={35} title="Eductaion" />
               </div>
 
               <div className="nav-link">
@@ -85,15 +77,11 @@ const Menu = ({ toggle }) => {
               </div>
 
               <div className="nav-link">
-                <FcReadingEbook size={35} title="Eductaion" />
-              </div>
-
-              <div className="nav-link">
                 <FcVideoProjector size={35} title="Projects" />
               </div>
 
               <div className="nav-link">
-                <FcVoicePresentation size={35} title="Testimonial" />
+                <FcPortraitMode size={35} title="Work Experience" />
               </div>
 
               <div className="nav-link">
