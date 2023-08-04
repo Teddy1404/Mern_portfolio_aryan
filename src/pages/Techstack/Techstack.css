@@ -23,3 +23,16 @@
   transition: 1s;
   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
+#dark .techstack h2 {
+  color: white;
+}
+@media (max-width: 600px) {
+  .techstack {
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+  }
+  .techstack hr {
+    width: 280px;
+  }
+}
