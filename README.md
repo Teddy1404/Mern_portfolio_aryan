@@ -1,3 +1,26 @@
+## Portfolio Overview
+![Screenshot (624)](https://github.com/Teddy1404/Mern_portfolio_aryan/assets/96349795/856cd148-f2ec-40d7-80b5-2924876510f2)
+
+
+![Screenshot (620)](https://github.com/Teddy1404/Mern_portfolio_aryan/assets/96349795/097c7f3e-90c7-4d79-853e-9b2cad0d1de4)
+
+
+![Screenshot (621)](https://github.com/Teddy1404/Mern_portfolio_aryan/assets/96349795/1a33ce3d-76da-40e0-b594-7db062fad8da)
+
+
+![Screenshot (622)](https://github.com/Teddy1404/Mern_portfolio_aryan/assets/96349795/e3fca0de-b888-4e9f-a9df-4c72f24dd754)
+
+
+![Screenshot (623)](https://github.com/Teddy1404/Mern_portfolio_aryan/assets/96349795/38bb45dd-d17e-4f1a-8f29-45d1985bf84a)
+
+
+![Screenshot (626)](https://github.com/Teddy1404/Mern_portfolio_aryan/assets/96349795/96071e2d-bcc3-4287-8a27-f2f6e211f893)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
