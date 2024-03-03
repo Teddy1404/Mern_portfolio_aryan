@@ -2,7 +2,7 @@ import React from "react";
 import { useTheme } from "../../context/ThemeContext";
 import Typewriter from "typewriter-effect";
 import "./Home.css";
-import Resume from "../../assets/docs/Resumearyan.pdf";
+import Resume from "../../assets/docs/Aryan_resume.pdf";
 import Fade from "react-reveal/Fade";
 import { BsFillMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 const Home = () => {
