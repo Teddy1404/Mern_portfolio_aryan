@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Mern_portfolio_aryan/static/css/main.6ac1fa38.css",
-    "main.js": "/Mern_portfolio_aryan/static/js/main.9baf642b.js",
+    "main.js": "/Mern_portfolio_aryan/static/js/main.09d57b15.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Mern_portfolio_aryan/static/js/787.c4e7f8f9.chunk.js",
     "static/media/p1.png": "/Mern_portfolio_aryan/static/media/p1.e2e0a22434b687f3eca7.png",
     "static/media/p2.png": "/Mern_portfolio_aryan/static/media/p2.9dd7bff1445bfa58822e.png",
     "static/media/aboutme.jpg": "/Mern_portfolio_aryan/static/media/aboutme.0d839a5acbd31eddfd9b.jpg",
-    "static/media/Resumearyan.pdf": "/Mern_portfolio_aryan/static/media/Resumearyan.7edbeb826594ede01b55.pdf",
     "static/media/contact.jpg": "/Mern_portfolio_aryan/static/media/contact.13b798d6ec4d62e3e4d2.jpg",
     "static/media/me.jpg": "/Mern_portfolio_aryan/static/media/me.3e4e8cbd88ce4649f69a.jpg",
+    "static/media/Aryan_resume.pdf": "/Mern_portfolio_aryan/static/media/Aryan_resume.618e60e7e4117c3c3e18.pdf",
     "static/media/p3.png": "/Mern_portfolio_aryan/static/media/p3.93ba063e3ce706daa04c.png",
     "index.html": "/Mern_portfolio_aryan/index.html",
     "main.6ac1fa38.css.map": "/Mern_portfolio_aryan/static/css/main.6ac1fa38.css.map",
-    "main.9baf642b.js.map": "/Mern_portfolio_aryan/static/js/main.9baf642b.js.map",
+    "main.09d57b15.js.map": "/Mern_portfolio_aryan/static/js/main.09d57b15.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Mern_portfolio_aryan/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ac1fa38.css",
-    "static/js/main.9baf642b.js"
+    "static/js/main.09d57b15.js"
   ]
 }
